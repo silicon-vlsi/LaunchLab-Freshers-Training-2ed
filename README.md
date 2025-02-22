@@ -1,2 +1,6 @@
-# LaunchLab-Freshers-Training-2ed
-This repository contains all the materials related to the basic MOSFET theory, CMOS technology, circuit and layout design, and basic PDK design.
+# LaunchLab Freshers Training _2ed 2025_
+
+This is the material for training new hires for various VLSI domain including desgin, layout, characterization, and PDK. 
+The material covers linear circuit theory, semiconductor devices, MOSFET theory, CMOS technology, and CMOS design.
+
+
